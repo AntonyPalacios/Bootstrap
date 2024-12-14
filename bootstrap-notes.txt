@@ -1,0 +1,12 @@
+col-auto hace que el tamaño del contenedor sea del tamaño del contenido
+col-lg-4 col-8 significa que para todas las pantallas lg y más solo tome 4 espacios, pero en pantallas menores que lg tome 8 espacios
+offset hace que el haya un espacio segun la cantidad que se mande (offset-2)
+gy-n es n separacion entre filas
+gx-n es n separacion entre los elementos de la fila
+g-n es n separacion entre filas y sus elementos
+si tenemos un div ROW, todo su contenido deberia ir dentro de un COL
+table-responsive-x hace que la tabla sea responsive para pantallas menores que x
+table-group-divider se puede usar solo en thead, tbody o tfooter
+form-floating: label debe ir luego del input, el input debe tener un placeholder, este será el que se mueva
+btn-link hace que los buttons se vean como a tags
+navbar-expand-md el navbar se va a expandir en md o más grande
